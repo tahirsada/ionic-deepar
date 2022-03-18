@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-deepar",
+  "version": "0.0.1",
+  "description": "deepar",
+  "cordova": {
+    "id": "cordova-plugin-deepar",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahirsada/ionic-deepar.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Tahir Sada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahirsada/ionic-deepar/issues"
+  },
+  "homepage": "https://github.com/tahirsada/ionic-deepar#readme"
+}
